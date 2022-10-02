@@ -1,2 +1,1 @@
-# SQL-Fun
-Miscellaneous SQL 
+# Miscellaneous tasks
